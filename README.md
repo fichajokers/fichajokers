@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fichajokers
 - 👀 I’m interested in Programming and learn new tecnologies
-- 🌱 I’m currently learning React-Angular
+- 🌱 I’m currently learning ai development
 - 📫 How to reach me ficha.villar@gmail.com
 
 <!---
